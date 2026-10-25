@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi I'm Dove.
+nice to meet you.
 
 <!--
 **Dove-gugu/Dove-gugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
